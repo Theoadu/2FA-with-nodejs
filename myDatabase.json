@@ -1,1 +1,13 @@
-{}
+{
+    "person": {
+        "d9923d3e-da92-46f8-a99a-a9358bb49628": {
+            "id": "d9923d3e-da92-46f8-a99a-a9358bb49628",
+            "secret": {
+                "ascii": "!8}]tM4IsEIrQ6EA.}axPldNEVtZ#PRO",
+                "hex": "21387d5d744d344973454972513645412e7d6178506c644e4556745a2350524f",
+                "base32": "EE4H2XLUJU2ES42FJFZFCNSFIEXH2YLYKBWGITSFKZ2FUI2QKJHQ",
+                "otpauth_url": "otpauth://totp/SecretKey?secret=EE4H2XLUJU2ES42FJFZFCNSFIEXH2YLYKBWGITSFKZ2FUI2QKJHQ"
+            }
+        }
+    }
+}
